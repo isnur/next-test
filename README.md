@@ -1,6 +1,6 @@
 # Kitabisa + Next.js frontend test
 
-DEMO 👉 https://kitabisa.netlify.com/
+DEMO 👉 https://kitabisa.isnur.com/
 
 This app build using [Next.js](https://github.com/zeit/next.js/).
 
